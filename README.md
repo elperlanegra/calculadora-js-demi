@@ -1,2 +1,1 @@
-# calculadora-js-demi
-Calculadora by Demi
+# Calculadora by Demi
